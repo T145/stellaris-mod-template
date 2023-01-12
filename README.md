@@ -12,5 +12,3 @@ Made for making mods!
     - [Paradox Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=tboby.paradox-syntax)
 3. Change the following CWTools settings:
     - Cache: Stellaris = (current game path)
-4. Install the following prerequisite mods:
-    - UI Overhaul Dynamic
